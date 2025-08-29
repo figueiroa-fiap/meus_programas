@@ -1,0 +1,9 @@
+-- Aciona as alterações no GIT
+
+git add .
+
+
+git commit -m "Alterei nada. É só teste"
+
+Você envia (push) para o GitHub:
+git push origin master

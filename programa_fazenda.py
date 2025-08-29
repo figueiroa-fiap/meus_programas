@@ -95,7 +95,7 @@ while True:
             print("Índice inválido.")
 
     elif opcao == "5":
-        print("Encerrando o programa. Até mais! 👋")
+        print("Encerrando o programa. Até mais! 👋. BYE")
         break
 
     else:
